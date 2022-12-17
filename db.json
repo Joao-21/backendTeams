@@ -1,14 +1,32 @@
 {
-  "users": [
+  "teams": [
     {
-      "id": 1,
-      "name": "David",
-      "age": 30
+      "name": "palmeiras",
+      "informations": "Muito bom",
+      "titles": "Bacana",
+      "history": "Ser bom",
+      "label": "Sociedade Esportiva Palmeiras"
     },
     {
-      "name": "John",
-      "id": 2,
-      "age": 40
+      "name": "corinthians",
+      "informations": "informations",
+      "titles": "titles",
+      "history": "history",
+      "label": "Sport Club Corinthians Paulista"
+    },
+    {
+      "name": "saopaulo",
+      "informations": "saopaulo",
+      "titles": "saopaulo",
+      "history": "saopaulo",
+      "label": "São Paulo Futebol Clube"
+    },
+    {
+      "name": "santos",
+      "informations": "santos",
+      "titles": "santos",
+      "history": "santos",
+      "label": "Santos Futebol Clube"
     }
   ]
 }
