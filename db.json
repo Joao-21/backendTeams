@@ -3,28 +3,28 @@
     {
       "name": "palmeiras",
       "informations": "Muito bom",
-      "titles": "Bacana",
+      "titles": [{ "libertadores": 3, "brasileiro": 11 }],
       "history": "Ser bom",
       "label": "Sociedade Esportiva Palmeiras"
     },
     {
       "name": "corinthians",
       "informations": "informations",
-      "titles": "titles",
+      "titles": [{ "libertadores": 1, "brasileiro": 7 }],
       "history": "history",
       "label": "Sport Club Corinthians Paulista"
     },
     {
       "name": "saopaulo",
       "informations": "saopaulo",
-      "titles": "saopaulo",
+      "titles": [{ "libertadores": 3, "brasileiro": 6 }],
       "history": "saopaulo",
       "label": "São Paulo Futebol Clube"
     },
     {
       "name": "santos",
       "informations": "santos",
-      "titles": "santos",
+      "titles": [{ "libertadores": 3, "brasileiro": 8 }],
       "history": "santos",
       "label": "Santos Futebol Clube"
     }
